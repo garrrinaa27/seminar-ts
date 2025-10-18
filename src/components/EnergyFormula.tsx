@@ -1,7 +1,7 @@
  import React from 'react'
  
  const EnergyFormula = () => {
-    return <li>Формула Энергии: E = mc2</li>;
+ return ( <li> Формула энергии: <i>E = mc<sup>2</sup></i> </li> );
 
  };
 
